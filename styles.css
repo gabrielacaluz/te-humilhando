@@ -12,11 +12,10 @@ html,body{
   padding: 0%;
   height: 100%;
   width: 100%;
-  background-image: radial-gradient(rgb(247, 243, 243), rgb(245, 130, 126));
+  background: radial-gradient(rgb(247, 243, 243), rgb(245, 130, 126));
   display: flex;
   flex-flow: column;
   align-items: center;
-  backgroud: radial-gradient(#e66465, #9198e5);
 }
 
 .msg{
